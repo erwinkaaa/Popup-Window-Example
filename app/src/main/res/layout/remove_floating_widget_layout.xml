@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/remove_popup_window"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/transparent_circle_shape"
+        android:padding="10dp"
+        android:src="@drawable/ic_close_white_24dp" />
+
+</FrameLayout>
